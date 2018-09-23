@@ -1,3 +1,10 @@
+---
+layout: post
+title:  "End of Line Trimming"
+date:   2018-09-23 03:00:00 -0400
+categories: jekyll tdd kata
+---
+
 # End of Line Trimming #
 
 _Credit to [tddproblems](https://sites.google.com/site/tddproblems/all-problems-1/text-editor-end-of-line-trimming)_
