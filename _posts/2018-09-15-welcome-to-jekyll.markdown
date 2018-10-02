@@ -1,32 +1,22 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "Welcome!"
 date:   2018-09-15 00:41:15 -0400
-categories: jekyll update
+categories: blog
 ---
 
-### Jake's comment ###
+### Welcome! ###
 
-I am leavning this here for a references as I develop this blog.
+Yes, another developer's personal blog and websites. But in reality, it's easier to show skills than to talk about them. But for sincerity's sake and for clarity's sake, this blog is to document my work and reflections in the field of Automation.
 
-### Original Content ###
+### Where I have come from ###
 
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+Originally I was a math and science teacher for grades 7 to 12. I did this for over five years. After the birth of my second child and being diagnosis with a stage 1 seminoma (it did get to stage 2... but that was after my transition and I am cured now), that career became too much. So I started to learn how to build software.
 
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+My first attempt at a [website](https://jake-in-development.weebly.com/) and some of my first projects. Hopefully weeby doesn't take it down. Its nice to see how far I've come.
 
-Jekyll also offers powerful support for code snippets:
+I got an opportunity to work in Test Automation at Nationwide Insurace Company in December 2016. I got the opportunity to write automated test scripts for angular applications, API's, and SOAP webservices. There is a lot I learned during that time which I hope to discuss as I put this together. I am currently still at Nationwide standing up new automation suites on teams with no prior automation frameworks.
 
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
+### Purpose of this Site ###
 
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
-
-[jekyll-docs]: https://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+To create a portfolio of work for my professional development and career. I want to have my work on display as resources for other people searching the web. Selfishly, I hope someone at Google or Amazon is really impressed and wants to hire me. But as I had mentioned earlier, its easier to show something than to claim something.
