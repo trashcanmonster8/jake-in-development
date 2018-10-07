@@ -2,7 +2,8 @@
 layout: post
 title:  "Welcome!"
 date:   2018-09-15 00:41:15 -0400
-categories: blog
+categories: personal
+tags: personal
 ---
 
 ### Welcome! ###
